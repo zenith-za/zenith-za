@@ -90,7 +90,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
 
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenith-za/zenith-za/output/pacman-contribution-graph-dark.svg">
@@ -98,4 +98,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zenith-za/zenith-za/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
