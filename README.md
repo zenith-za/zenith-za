@@ -10,14 +10,14 @@
 
 ###
 
+<p align="left">I specialize in frameworks such as Laravel, .NET, Angular, and Node.js, and I have extensive experience in developing RESTful APIs for scalable web applications. Additionally, I have created e-commerce websites and smaller web projects using WordPress, where I also set up RESTful web APIs to enhance functionality and integration.</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zenith-za&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zenith-za&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<p align="left">I specialize in frameworks such as Laravel, .NET, Angular, and Node.js, and I have extensive experience in developing RESTful APIs for scalable web applications. Additionally, I have created e-commerce websites and smaller web projects using WordPress, where I also set up RESTful web APIs to enhance functionality and integration.</p>
 
 ###
 
@@ -29,6 +29,14 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenith-za/zenith-za/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenith-za/zenith-za/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zenith-za/zenith-za/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -90,12 +98,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenith-za/zenith-za/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenith-za/zenith-za/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zenith-za/zenith-za/output/pacman-contribution-graph.svg">
-</picture>
-
-
+###
